@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+ul{
+    color:blueviolet;
+    font-style: italic;
+}
+.primer-parrafo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgba(rgba(187, 20, 159, 0.637), green, blue, alpha);
+}
